@@ -10,11 +10,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^3.0.3",
     "bcrypt-nodejs": "^0.0.3",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
+    "express": "^4.16.4",
     "knex": "^0.15.2"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal123tiger/fun2b.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishal123tiger/fun2b/issues"
+  },
+  "homepage": "https://github.com/vishal123tiger/fun2b#readme"
 }
